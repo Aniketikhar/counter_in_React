@@ -1,0 +1,13 @@
+
+
+.foo-container{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    background-color: rgb(9, 46, 0);
+    color: white;
+}
+h3{
+    padding: 20px;
+    text-align: center;
+}
